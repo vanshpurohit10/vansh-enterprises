@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vanshpurohit10.github.io/vansh-enterprises/sitemap.xml
